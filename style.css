@@ -6,17 +6,14 @@
 }
 
 body{
-    background-color: #E8D699;
+    background-color: #FEAE01;
 }
 
 .container{
-    width: 90vw;
-    max-width: 400px;
-    height: calc(100vh - 35px);
+    width: 100%;
+    max-width: 400px;    
     margin: 15px auto;
-    background-color: #FEAE01;
-    box-shadow: 0 0 10px #633100;
-    border-radius: 8px;
+    background-color: #FEAE01;    
     padding: 10px;
 }
 
